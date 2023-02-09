@@ -70,4 +70,5 @@ function getCount(objects) {
             matches ++; 
         }
     }
+    return matches;
 }
